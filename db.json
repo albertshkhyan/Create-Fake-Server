@@ -1,0 +1,37 @@
+[
+    {
+      "manufacturer": "Porsche",
+      "model": "911",
+      "price": 135000,
+      "wiki": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg/280px-Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg",
+      "img": "2004_Porsche_911_Carrera_type_997.jpg"
+    },
+    {
+      "manufacturer": "Nissan",
+      "model": "GT-R",
+      "price": 80000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2012_Nissan_GT-R_Egoist.jpg/420px-2012_Nissan_GT-R_Egoist.jpg",
+      "wiki": "250px-Nissan_GT-R.jpg"
+    },
+    {
+      "manufacturer": "BMW",
+      "model": "M3",
+      "price": 60500,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_BMW_M3_3.0.jpg/420px-2018_BMW_M3_3.0.jpg",
+      "wiki": "250px-BMW_M3_E92.jpg"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "S5",
+      "price": 53000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2018_Audi_S5_TFSi_Quattro_Automatic_3.0_Front.jpg/420px-2018_Audi_S5_TFSi_Quattro_Automatic_3.0_Front.jpg",
+      "wiki": "250px-Audi_S5.jpg"
+    },
+    {
+      "manufacturer": "Audi",
+      "model": "TT",
+      "price": 40000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg/420px-Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg",
+      "wiki": "250px-2007_Audi_TT_Coupe.jpg"
+    }
+  ]
